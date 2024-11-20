@@ -1,0 +1,19 @@
+.user-details-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.list-container{
+    list-style-type: none;
+    border: 1px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+}
+.main-heading{
+    font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 0px;
+  font-size: 36px;
+  color: #1e293b;
+  text-align: center;
+}
